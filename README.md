@@ -25,8 +25,11 @@ I study to become a Full Stack Dev <img src="https://media.giphy.com/media/dNgK7
 - :woman_student: I'm currently learning on Odin Project and FreeCodeCamp
 - :seedling: Exploring UI/UX too
 - :hourglass: In my free time, I create some projects for praticing
-- :mailbox: How to reach me : <a href="mailto:melinda.trami@live.fr">Click Here</a>
-
+- :mailbox: How to reach me : &nbsp;&nbsp;<a href="mailto:melinda.trami@live.fr">
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" title="Outlook" alt="Outlook" width="20" height="20">&nbsp;&nbsp;&nbsp;
+</a> <a href="https://twitter.com/mel_trbd"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="20" height="20">&nbsp;&nbsp;&nbsp;
+</a><a href=""><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" title="Instagram" alt="Instagram" width="20" height="20">&nbsp;
+</a>
 --- 
 
 ### Language and Tools: 
