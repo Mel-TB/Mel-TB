@@ -9,7 +9,7 @@
 </a>
 </div>
 
-### Hi I'm Melinda 👋
+# Hi I'm Melinda 👋
 </div>
 <div align="center">
 <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
@@ -17,7 +17,7 @@
 
 ----
 
-## :woman_technologist: About Me
+## :woman_technologist: About Me: 
 
 I study to become a Full Stack Dev <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="40">
 
@@ -29,7 +29,7 @@ I study to become a Full Stack Dev <img src="https://media.giphy.com/media/dNgK7
 
 --- 
 
-## Language and Tools: 
+### Language and Tools: 
 - I already know : 
 
 <div>
@@ -53,22 +53,14 @@ I study to become a Full Stack Dev <img src="https://media.giphy.com/media/dNgK7
 <div align="center">...</div>
 
 ---
-## :fire: My Stats 
+### :fire: My Stats: 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Mel-TB&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-TB&layout=compact&theme=vision-friendly-dark)](https://github.com/Mel-TB/github-readme-stats)
 
-<!--
-**Mel-TB/Mel-TB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :writing_hand: Blog Post: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
