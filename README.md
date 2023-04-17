@@ -22,7 +22,7 @@
 I study to become a Full Stack Dev <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="40">
 
 - :croissant: I currently live in France ( oui oui :baguette_bread:)
-- :woman_student: I'm currently learning on Odin Project and FreeCodeCamp
+- :woman_student: I'm currently learning on Zero to Mastery Bootcamp
 - :seedling: Exploring UI/UX too
 - :hourglass: In my free time, I create some projects for praticing
 - :mailbox: How to reach me : &nbsp;&nbsp;<a href="mailto:melinda.trami@live.fr">
