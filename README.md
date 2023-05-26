@@ -21,10 +21,10 @@
 
 I study to become a Full Stack Dev <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="40">
 
-- :croissant: I currently live in France ( oui oui :baguette_bread:)
-- :woman_student: I'm currently learning on Zero to Mastery Bootcamp
+- :croissant: France / Brazil ( oui oui :baguette_bread:)
+- :woman_student: ZTM Bootcamp
 - :seedling: Exploring UI/UX too
-- :hourglass: In my free time, I create some projects for praticing
+- :hourglass: Music, Movie, Travel, Read
 - :mailbox: How to reach me : &nbsp;&nbsp;<a href="mailto:melinda.trami@live.fr">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" title="Outlook" alt="Outlook" width="20" height="20">&nbsp;&nbsp;&nbsp;
 </a> <a href="https://twitter.com/mel_trbd"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="20" height="20">&nbsp;&nbsp;&nbsp;
