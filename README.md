@@ -21,7 +21,7 @@
 
 I study to become a Full Stack Dev <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="40">
 
-- :croissant: France / Brazil ( oui oui :baguette_bread:)
+- :croissant: France / Brazil
 - :woman_student: ZTM Bootcamp
 - :seedling: Exploring UI/UX too
 - :hourglass: Music, Movie, Travel, Read
