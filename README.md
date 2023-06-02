@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="200"/>
+  
+  
+  <img src="https://media.licdn.com/dms/image/D4E16AQG9GSNPF6unDQ/profile-displaybackgroundimage-shrink_350_1400/0/1682779658757?e=1691020800&v=beta&t=9y6cQwTX6d3RTxugxSyXVym7agBcI6ODdGyuCXu-tAk" />
 <div id="badges">
 <a href="https://github.com/Mel-TB">
 <img src="https://img.shields.io/github/followers/Mel-TB?style=social">
@@ -9,10 +11,7 @@
 </a>
 </div>
 
-# Hi I'm Melinda 👋
-</div>
-<div align="center">
-<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif">
+# Hi there ! 👋
 </div>
 
 ---
