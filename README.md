@@ -2,71 +2,46 @@
   
 
   <img src="https://i.postimg.cc/BQw7njVp/Minimal-Modern-Elegant-Background-Technology-Banner.png"/>
-<div id="badges">
-<a href="https://github.com/Mel-TB">
-<img src="https://img.shields.io/github/followers/Mel-TB?style=social">
-</a>
-<a href="https://twitter.com/mel_trbd">
-<img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
 </div>
 
-# Hi there ! 👋
-</div>
 
----
-
-## :woman_technologist: About Me: 
-
-I study to become a Full Stack Dev <img src="https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif" width="40">
-
-- :croissant: France / Brazil
-- :woman_student: ZTM Bootcamp
-- :seedling: Exploring UI/UX too
-- :hourglass: Music, Movie, Travel, Read
-- :mailbox: How to reach me : &nbsp;&nbsp;<a href="mailto:melinda.trami@live.fr">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" title="Outlook" alt="Outlook" width="20" height="20">&nbsp;&nbsp;&nbsp;
-</a> <a href="https://twitter.com/mel_trbd"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="20" height="20">&nbsp;&nbsp;&nbsp;
-</a><a href=""><img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" title="Instagram" alt="Instagram" width="20" height="20">&nbsp;
-</a>
---- 
-
-### Language and Tools: 
-- I already know : 
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40", height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-</div>
-
-- I will learn :
-
-<div>
   
+# 💫 About Me
+🚀 I'm currently learning to be Full Stack Dev <br>👩🏻‍💻 ZTM student <br>🌱Exploring UI/UX <br>⏳Art, Book, Coding, Music, Travel<br><br>⚡ EDS Warrior 
+
+## 📱 Let's Connect 
+<a href="https://fr.linkedin.com/in/melindat/en">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="20" height="20">&nbsp;&nbsp;&nbsp;</a> &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/mel_trbd"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="20" height="20">&nbsp;&nbsp;&nbsp;</a> &nbsp;&nbsp;&nbsp; <a href="mailto:melinda.trami@live.fr">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" title="Outlook" alt="Outlook" width="20" height="20">&nbsp;&nbsp;&nbsp;
+</a> 
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-</div>
+#  💻 Languages & Tools
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="35" height="35"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="35" height="35"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="35" height="35"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"  title="Git" alt="Git" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"  title="Firebase" alt="Firebase" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"  title="Illustrator" alt="Illustrator" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title="Photoshop" alt="Photoshop" width="35" height="35"/>&nbsp;
 
-<div align="center">...</div>
 
----
-### :fire: My Stats: 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mel-TB&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-TB&layout=compact&theme=vision-friendly-dark)](https://github.com/Mel-TB/github-readme-stats)
+</br>
 
----
+# 📊 GitHub Stats
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mel-TB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### :writing_hand: Blog Post: 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+  
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+
+
+
