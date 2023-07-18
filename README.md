@@ -2,6 +2,8 @@
   
 
   <img src="https://i.postimg.cc/BQw7njVp/Minimal-Modern-Elegant-Background-Technology-Banner.png"/>
+
+
 </div>
 
 
@@ -9,13 +11,8 @@
 # 💫 About Me
 🚀 I'm currently learning to be Full Stack Dev <br>👩🏻‍💻 ZTM student <br>🌱Exploring UI/UX <br>⏳Art, Book, Coding, Music, Travel<br><br>⚡ EDS Warrior 
 
-## 📱 Let's Connect 
-<a href="https://fr.linkedin.com/in/melindat/en">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="20" height="20">&nbsp;&nbsp;&nbsp;</a> &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/mel_trbd"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="20" height="20">&nbsp;&nbsp;&nbsp;</a> &nbsp;&nbsp;&nbsp; <a href="mailto:melinda.trami@live.fr">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" title="Outlook" alt="Outlook" width="20" height="20">&nbsp;&nbsp;&nbsp;
-</a> 
   
-#  💻 Languages & Tools
+##  💻 Languages & Tools
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="35" height="35"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
@@ -30,12 +27,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title="Photoshop" alt="Photoshop" width="35" height="35"/>&nbsp;
 
 
-
+## 📱 Let's Connect 
+<a href="https://fr.linkedin.com/in/melindat/en">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="25" height="25">&nbsp;&nbsp;&nbsp;</a> &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/mel_trbd"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="25" height="25">&nbsp;&nbsp;&nbsp;</a> &nbsp;&nbsp;&nbsp; <a href="mailto:melinda.trami@live.fr">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" title="Outlook" alt="Outlook" width="25" height="25">&nbsp;&nbsp;&nbsp;
+</a> 
 </br>
 
   
-## ✍️ Random Dev Quote
+  ## ✍️ Random Dev Quote
+<div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+</div>
 
 
 
