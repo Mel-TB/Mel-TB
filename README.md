@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
-  
-  <img src="https://media.licdn.com/dms/image/D4E16AQG9GSNPF6unDQ/profile-displaybackgroundimage-shrink_350_1400/0/1682779658757?e=1691020800&v=beta&t=9y6cQwTX6d3RTxugxSyXVym7agBcI6ODdGyuCXu-tAk" />
+
+  <img src="https://i.postimg.cc/BQw7njVp/Minimal-Modern-Elegant-Background-Technology-Banner.png"/>
 <div id="badges">
 <a href="https://github.com/Mel-TB">
 <img src="https://img.shields.io/github/followers/Mel-TB?style=social">
