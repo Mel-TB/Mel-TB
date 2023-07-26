@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
 
-  <img src="https://i.postimg.cc/BQw7njVp/Minimal-Modern-Elegant-Background-Technology-Banner.png"/>
+  <img src="https://i.postimg.cc/4x5Q3MXf/Minimal-Modern-Elegant-Background-Technology-Banner.png"/>
 
 
 </div>
