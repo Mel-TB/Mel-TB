@@ -9,7 +9,7 @@
 
   
 # 💫 About Me
-🚀 I'm currently learning to be Full Stack Dev <br>👩🏻‍💻 ZTM student <br>🌱Exploring UI/UX <br>⏳Art, Book, Coding, Music, Travel<br><br>⚡ EDS Warrior 
+🚀 Software Engineer | FullStack Developer <br>🌱Exploring UI/UX <br>⏳Art, Book, Coding, Music, Travel<br><br>⚡ EDS Warrior 
 
   
 ##  💻 Languages & Tools
