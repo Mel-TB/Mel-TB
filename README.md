@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
 
-  <img src="https://i.postimg.cc/4x5Q3MXf/Minimal-Modern-Elegant-Background-Technology-Banner.png"/>
+[![Melinda-trami-1.png](https://i.postimg.cc/hGcjFp7P/Melinda-trami-1.png)](https://postimg.cc/9DgVZPpv)
 
 
 </div>
