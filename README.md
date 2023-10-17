@@ -2,11 +2,9 @@
   
 
 [![Melinda-trami-1.png](https://i.postimg.cc/hGcjFp7P/Melinda-trami-1.png)](https://postimg.cc/9DgVZPpv)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=melinda.trami&cover_image=true&theme=novatorem&show_offline=false&background_color=223042&interchange=true&bar_color=d7d7d7&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
-
-
   
 # 💫 About Me
 🚀 Software Engineer | FullStack Developer <br>🌱Exploring UI/UX <br>⏳Art, Book, Coding, Music, Travel<br><br>⚡ EDS Warrior 
