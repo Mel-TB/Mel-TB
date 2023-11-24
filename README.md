@@ -1,39 +1,46 @@
 <div id="header" align="center">
   
+  <a href='mailto:tramimelinda@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href='https://fr.linkedin.com/in/melindat'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-[![Melinda-trami-1.png](https://i.postimg.cc/hGcjFp7P/Melinda-trami-1.png)](https://postimg.cc/9DgVZPpv)
+  [![banner-github.png](https://i.postimg.cc/SsBdvswB/banner-github.png)](https://postimg.cc/nj1qsHV2)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=melinda.trami&cover_image=true&theme=novatorem&show_offline=false&background_color=223042&interchange=false&bar_color=b6b6b6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
   
 # 💫 About Me
-🚀 Software Engineer | FullStack Developer <br>🌱Exploring UI/UX <br>⏳Art, Book, Coding, Music, Travel<br><br>⚡ EDS Warrior 
+🚀 Frontend Developer | FullStack Developer
+<br>⏳Stoicism, Book, Coding, Music, Travel
+<br>🌱 Vegan
 
   
-##  💻 Languages & Tools
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  title="Redux" alt="Redux" width="35" height="35"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="35" height="35"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="35" height="35"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg"  title="Git" alt="Git" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"  title="Firebase" alt="Firebase" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"  title="Illustrator" alt="Illustrator" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title="Photoshop" alt="Photoshop" width="35" height="35"/>&nbsp;
+###  💻 Languages & Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 
-## 📱 Let's Connect 
-<a href="https://fr.linkedin.com/in/melindat/en">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="Linkedin" alt="Linkedin" width="25" height="25">&nbsp;&nbsp;&nbsp;</a> &nbsp;&nbsp;&nbsp; <a href="https://twitter.com/mel_trbd"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="25" height="25">&nbsp;&nbsp;&nbsp;</a> &nbsp;&nbsp;&nbsp; <a href="mailto:melinda.trami@live.fr">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Outlook.svg" title="Outlook" alt="Outlook" width="25" height="25">&nbsp;&nbsp;&nbsp;
-</a> 
-</br>
 
-  
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mel-TB&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mel-TB&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mel-TB&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| [![GitHub Streak](https://streak-stats.demolab.com?user=mel-TB&theme=tokyonight)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mel-TB&theme=tokyonight) |
+| :-: | :-: |
+
   ## ✍️ Random Dev Quote
 <div align="center">
   
