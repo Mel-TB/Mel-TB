@@ -9,7 +9,7 @@
 </div>
   
 # 💫 About Me
-🚀 Frontend Developer | FullStack Developer
+🚀 Frontend Developer | Web Accessibility Advocate
 <br>⏳Stoicism, Book, Coding, Music, Travel
 <br>🌱 Vegan
 
