@@ -42,11 +42,7 @@
 | [![GitHub Streak](https://streak-stats.demolab.com?user=mel-TB&theme=tokyonight)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mel-TB&theme=tokyonight) |
 | :-: | :-: |
 
-  ## ✍️ Random Dev Quote
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-</div>
+
 
 
 
