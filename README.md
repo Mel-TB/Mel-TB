@@ -2,7 +2,7 @@
   
   <a href='mailto:tramimelinda@gmail.com'>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href='https://fr.linkedin.com/in/melindat'>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-  [![banner-github.png](https://i.postimg.cc/SsBdvswB/banner-github.png)](https://postimg.cc/nj1qsHV2)
+ [![Black-Gradient-Minimalist-Corporate-Business-Personal-Profile-New-Linked-In-Banner.png](https://i.postimg.cc/GpZ0LSnV/Black-Gradient-Minimalist-Corporate-Business-Personal-Profile-New-Linked-In-Banner.png)](https://postimg.cc/8FBXw45m)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=melinda.trami&cover_image=true&theme=novatorem&show_offline=false&background_color=223042&interchange=false&bar_color=b6b6b6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
