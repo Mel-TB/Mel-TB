@@ -2,7 +2,7 @@
 <div id="header" align="center">
   
 
-[![banner.png](https://i.postimg.cc/vBK66j5z/banner.png)](https://postimg.cc/cgQJpF9g)
+[![E40-C159-F-8126-4-DE9-A9-AF-5-E175453236-E.png](https://i.postimg.cc/9fYdCQRx/E40-C159-F-8126-4-DE9-A9-AF-5-E175453236-E.png)](https://postimg.cc/f3ktvZvX)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=melinda.trami&cover_image=true&theme=novatorem&show_offline=false&background_color=223042&interchange=false&bar_color=b6b6b6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
