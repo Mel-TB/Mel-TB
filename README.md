@@ -17,7 +17,9 @@ Rooted in the vibrant south of France 🥐, I am a passionate Frontend Developer
  
   
 ##  📦Toolbox
-**Frontend Development**: **`CSS`**  **`TypeScript`** **`JavaScript`** **`React`** **`Next.js`** **`React Native`** **`Tailwind`** **`SASS`** 
+**Frontend Development**: **`CSS`**  **`TypeScript`** **`JavaScript`** **`React`** **`Next.js`** **`Tailwind`** **`SASS`** 
+
+**Mobile Development**: **`React Native`** **`Flutter`**
 
 **Backend Development**:  **`Node.JS`** **`Express`** **`NestJS`** **`GraphQL`** **`Supabase`**
 
@@ -48,9 +50,6 @@ Rooted in the vibrant south of France 🥐, I am a passionate Frontend Developer
 - **"Discourses and Selected Writings"** by Epictetus.
 - **"Mindset: The New Psychology of Success"** by Carol S. Dweck.
 
-## 🌱 Why I Choose Vegan
-Veganism for me is about compassion, environmental responsibility, and personal health. It's a reflection of my respect for life and a commitment to a sustainable future. Each choice I make supports a kinder, healthier planet and aligns with my values of minimizing harm.
-It's not just what I eat; it's how I choose to live.
 
 ## 🤝 Connect with Me
 Feel free to reach out for collaborations or just a friendly chat on [LinkedIn](https://www.linkedin.com/in/melindat/). 
